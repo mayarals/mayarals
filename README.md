@@ -12,7 +12,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-limas.mayara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:limas.mayara@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-lsilva/)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](linktr.ee/mayarals)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mayarals)
 <!--
 **mayarals/mayarals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
