@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-👩🏽‍💻 I'm Mayara!
+👩🏽‍💻 I'm Mayara! I'm from São Paulo - Brazil. My pronouns are she/her.
 
 🔭 I'm currently working as an analyst in the IT governance team.
 
 🌱 I'm currently learning data analytics and Python programming.
 
-✨ I'm looking to colaborate on data-driven solutions;
+👯 I'm looking to colaborate on data-driven solutions.
 
 💬 Let's connect! I'm open to discussing data, technology, and collaborative opportunities!
 
